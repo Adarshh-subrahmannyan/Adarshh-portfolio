@@ -13,3 +13,4 @@ Then open http://localhost:3000
 - `app/globals.css` — visual system and responsive layout.
 - `public/adarsh-cutout.png` — edited portrait from the supplied photo.
 - Add `public/resume.pdf` when the resume is ready and point the resume CTA to it.
+# Adarshh-portfolio
