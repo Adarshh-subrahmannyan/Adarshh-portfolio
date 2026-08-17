@@ -7,13 +7,11 @@ import { ArrowRight, ArrowUpRight, ExternalLink, Github, Instagram, Linkedin, Ma
 import ParticleBackground from './ParticleBackground';
 
 const projects = [
-  { title: 'Carbon Gurukulam', type: 'Android App', status: 'Live', desc: 'An institutional platform built by our team to manage student activity including attendance, exams, finance and communication.', stack: ['Flutter', 'Supabase', 'Dart'], link: 'https://play.google.com/store/search?q=carbon%20gurukulam&c=apps' },
-  { title: 'Nila', type: 'Linux Desktop', desc: 'A retro-inspired Linux music player built because I wanted a better music experience on my own system.', stack: ['Electron', 'React', 'mpv', 'yt-dlp'], link: 'https://github.com/Adarshh-subrahmannyan/Nila-linux-music-player' },
-  { title: 'MechNear', type: 'Web Project', desc: 'A location-based workshop finder connecting stranded bike riders with nearby mechanic shops.', stack: ['HTML5', 'JavaScript', 'PHP', 'SQLite'] },
-  { title: 'Aksharamithra', type: 'Telegram Bot', desc: 'A multilingual learning assistant for Marathi, Hindi and Malayalam, with a future RAG-powered web platform planned.', stack: ['Python', 'Telegram API'], link: 'https://github.com/Adarshh-subrahmannyan/Aksharamithra' },
-  { title: 'StudyLock', type: 'Browser Extension', desc: 'A whitelist-first focus extension with Pomodoro sessions, goals, streaks, YouTube filtering and tamper protection.', stack: ['JavaScript', 'Firefox APIs'], link: 'https://github.com/Adarshh-subrahmannyan/StudyLock' },
   { title: 'Hushh', type: 'Anonymous Chat', desc: 'My first complete anonymous chat platform, built while learning how far AI-assisted development could take an idea.', stack: ['Web', 'AI-assisted'], link: 'https://github.com/Adarshh-subrahmannyan/hushh' },
-  { title: 'RupeeLens', type: 'Finance App', status: 'Paused', desc: 'A personal finance tracker focused on making everyday spending and budgeting easier to understand.', stack: ['Finance', 'App'], link: 'https://github.com/Adarshh-subrahmannyan/RupeeLens' },
+  { title: 'Nila', type: 'Linux Desktop', desc: 'A retro-inspired Linux music player built because I wanted a better music experience on my own system.', stack: ['Electron', 'React', 'mpv', 'yt-dlp'], link: 'https://github.com/Adarshh-subrahmannyan/Nila-linux-music-player' },
+  { title: 'Aksharamithra', type: 'Telegram Bot', desc: 'A multilingual learning assistant for Marathi, Hindi and Malayalam, with a future RAG-powered web platform planned.', stack: ['Python', 'Telegram API'], link: 'https://github.com/Adarshh-subrahmannyan/Aksharamithra' },
+  { title: 'Carbon Gurukulam', type: 'Android App', status: 'Live', desc: 'An institutional platform built by our team to manage student activity including attendance, exams, finance and communication.', stack: ['Flutter', 'Supabase', 'Dart'], link: 'https://play.google.com/store/search?q=carbon%20gurukulam&c=apps' },
+  { title: 'Voxio', type: 'Web App', desc: 'Description for Voxio goes here.', stack: ['Tech Stack'], link: '#' },
 ];
 
 const wins = [['Stellar 2.0', '2025'], ['Nauka', '2026'], ['HOPE 25', '2025']];
